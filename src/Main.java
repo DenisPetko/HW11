@@ -45,7 +45,7 @@ public class Main {
         yearLeapOrNot(year);
 
         System.out.println("Задача 2");
-        int os = 1;
+        int os = 0;
         int clientDeviceYear = 2014;
         osChoice(os, clientDeviceYear);
 
